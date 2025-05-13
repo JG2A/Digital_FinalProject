@@ -1,0 +1,45 @@
+File path entered: random.jpeg
+Extracted file extension: jpeg
+Extracted file signature: 89504E47
+Result: File signature does not match the expected signature.
+All Associated signatures: FFD8FFDB FFD8FFE0 FFD8FFEE FFD8FFE1 
+Current signature: 89504E47
+----------------------------------------
+File path entered: random.jpeg
+Extracted file extension: jpeg
+Extracted file signature: 89504E47
+Result: File signature does not match the expected signature.
+All Associated signatures: FFD8FFDB FFD8FFE0 FFD8FFEE FFD8FFE1 
+Current signature: 89504E47
+----------------------------------------
+
+File path entered: random.jpeg
+Extracted file extension: jpeg
+Extracted file signature: 89504E47
+Result: File signature does not match the expected signature.
+                                .--.__
+                                                      .~ (@)  ~~~---_
+                                                     {     `-_~,,,,,,)
+                                                     {    (_  ',
+                                                      ~    . = _',
+                                                       ~-   '.  =-'
+                                                         ~     :
+      .                                             _,.-~     ('');
+      '.                                         .-~        \  \ ;
+        ':-_                                _.--~            \  \;      _-=,.
+          ~-:-.__                       _.-~                 {  '---- _'-=,.
+             ~-._~--._             __.-~                     ~---------=,.`
+                 ~~-._~~-----~~~~~~       .+++~~~~~~~~-__   /\
+                      ~-.,____           {   -     +   }  _/\
+                              ~~-.______{_    _ -=\ / /_.~\
+                                   :      ~--~    // /         ..-\
+                                   :   / /      // /         ((\
+                                   :  / /      {   `-------,. ))
+                                   :   /        ''=--------. }o
+                      .=._________,\'  )                     ))
+                      )  _________ -''                     ~~
+                     / /  _ _
+                    (_.-.'O'-'.
+All Associated signatures: FFD8FFDB FFD8FFE0 FFD8FFEE FFD8FFE1 
+Current signature: 89504E47
+----------------------------------------
